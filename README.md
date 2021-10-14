@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Jaya
+- 🔭 I’m currently working on Decisiv
 - 📫 How to reach me: con@tato.dev
 - 💬 Ask me about Rails, Javascript and Chrome extensions
 - 📍Living: Santa Catarina, Brazil;
