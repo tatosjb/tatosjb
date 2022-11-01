@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Decisiv
+- 🔭 I’m currently looking for new opportunities
 - 📫 How to reach me: con@tato.dev
 - 💬 Ask me about Rails, Javascript, React and Chrome extensions
 - 📍Living: Santa Catarina, Brazil;
