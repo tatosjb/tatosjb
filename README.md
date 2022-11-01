@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on Decisiv
 - 📫 How to reach me: con@tato.dev
-- 💬 Ask me about Rails, Javascript and Chrome extensions
+- 💬 Ask me about Rails, Javascript, React and Chrome extensions
 - 📍Living: Santa Catarina, Brazil;
 - ⚡ Fun fact: I love tabletop rpg and board games.
 
