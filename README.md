@@ -4,4 +4,4 @@
 - 📍Living: Santa Catarina, Brazil;
 - ⚡ Fun fact: I love tabletop rpg and board games.
 
-![Altair's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatosjb&count_private=true&show_icons=true)
+![Altair's GitHub stats](https://ghstats.tato.dev/api?username=tatosjb&count_private=true&show_icons=true)
